@@ -31,7 +31,7 @@ class TestChemicalProperties(unittest.TestCase):
     
     creature = Creature(spider)
     connections = creature.get_connections() 
-    ```
+    """
     self.assertEqual(Creature(Spider(chemical=[
       (
         [(13, 13), (13, 13)], 
@@ -47,7 +47,7 @@ class TestChemicalProperties(unittest.TestCase):
                       )
                     ]
                     )
-    ```
+    """
 
 
 
