@@ -6,3 +6,6 @@ Sun system is determined with physical laws. I try to description of the specifi
 
 ## License 
 Is the intellectual property of the participants.
+
+### Contribute 
+You must be invited personally!
