@@ -4,7 +4,7 @@ from .creature import Spider, Creature
 
 
 
-class TestChemicalProperties: 
+class TestChemicalProperties(unittest.TestCase): 
 
   # Reactions between the reagents
   # TODO: check test before first start, and do in after creating source of classes Creature: and Spider:
