@@ -5,7 +5,7 @@ Python module for simulations made for study.
 Sun system is determined with physical laws. I try to description of the specification as if this space area were a computer program.
 
 ## License 
-Is the intellectual property of the participants.
+Is the intellectual property of the participants. Any use with written permission from the author.
 
 ### Contribute 
 You must be invited personally!
